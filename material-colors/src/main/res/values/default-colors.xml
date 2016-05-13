@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_000">#FF000000</color>
+    <color name="default_111">#FF111111</color>
+    <color name="default_222">#FF222222</color>
+    <color name="default_333">#FF333333</color>
+    <color name="default_444">#FF444444</color>
+    <color name="default_555">#FF555555</color>
+    <color name="default_666">#FF666666</color>
+    <color name="default_777">#FF777777</color>
+    <color name="default_888">#FF888888</color>
+    <color name="default_999">#FF999999</color>
+    <color name="default_aaa">#FFAAAAAA</color>
+    <color name="default_bbb">#FFBBBBBB</color>
+    <color name="default_ccc">#FFCCCCCC</color>
+    <color name="default_ddd">#FFDDDDDD</color>
+    <color name="default_eee">#FFEEEEEE</color>
+    <color name="default_fff">#FFFFFFFF</color>
+    <!--https://developer.android.com/intl/ja/reference/android/graphics/Color.html-->
+    <color name="default_black">@color/default_000</color>
+    <color name="default_dkgray">@color/default_444</color>
+    <color name="default_gray">@color/default_888</color>
+    <color name="default_ltgray">@color/default_ccc</color>
+    <color name="default_red">#FFFF0000</color>
+    <color name="default_green">#FF00FF00</color>
+    <color name="default_blue">#FF0000FF</color>
+    <color name="default_yellow">#FFFFFF00</color>
+    <color name="default_cyan">#FF00FFFF</color>
+    <color name="default_magenta">#FFFF00FF</color>
+</resources>
